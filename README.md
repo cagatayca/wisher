@@ -1,6 +1,6 @@
 ## Deploy on Firebase
 
-✅✅✅ fir-4aca9.firebaseapp.com ✅✅✅
+✅✅✅ https://fir-4aca9.firebaseapp.com ✅✅✅
 
 
 ## Getting Started
